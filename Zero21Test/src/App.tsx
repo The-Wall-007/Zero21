@@ -1,9 +1,9 @@
 import React from 'react';
 
-import {Registration} from './Screens';
+import {SignUpPhoneValidation} from './Screens';
 
 const App = () => {
-  return <Registration />;
+  return <SignUpPhoneValidation />;
 };
 
 export default App;
